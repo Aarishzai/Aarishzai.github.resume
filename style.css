@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    background-color: #000;
+    margin: 3%;
+
+}
+#size{
+    font-size:50px;
+    font-weight: bold;
+    color: #fff;
+}
+#size2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+#image{
+    width:400px ;
+    height:630px ;
+}
+i{
+    color: rgb(30, 149, 16);
+}
+p{
+    color: rgb(73, 69, 69);
+}
+h3{
+    color: #fff;
+}
+hr{
+    background-color:rgb(73, 69, 69) ;
+}
+.fas{
+    font-size: 24px;
+}
+h2{
+    color: #fff;
+}
+
+.text{
+    position: relative;
+    margin-top: -20%;
+    text-align: center;
+}
+ h1{
+    color: rgb(255, 255, 255);
+    margin-top: ;
+}
